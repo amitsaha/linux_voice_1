@@ -5,7 +5,7 @@ Usage:
 $ go run crop.go --height=5000 --width=7000 <path to image1> <path to image 2>
 
 The cropped images will be placed in the same directory as the original images with
-the file names being ``cropped_<original_file_name>.<original_extension>``
+the file names being cropped_<original_file_name>.<original_extension>
 */
 
 package main
