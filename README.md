@@ -39,3 +39,7 @@ The following resource may help you continue your learning:
 - [An introduction to programming in Go](https://www.golang-book.com/books/intro)
 - [Go by example](https://www.gobyexample.com)
 - [An incomplete list of Go tools](http://dominik.honnef.co/posts/2014/12/an_incomplete_list_of_go_tools/)
+
+### Miscellaneous
+
+- [Why does the golang flag package return pointers to primitives like bool instead of values?](https://plus.google.com/u/1/104364549279117274863/posts/EerjHxeeiDE)
