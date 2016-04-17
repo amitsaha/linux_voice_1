@@ -39,6 +39,11 @@ The following resource may help you continue your learning:
 - [An introduction to programming in Go](https://www.golang-book.com/books/intro)
 - [Go by example](https://www.gobyexample.com)
 - [An incomplete list of Go tools](http://dominik.honnef.co/posts/2014/12/an_incomplete_list_of_go_tools/)
+- [Go slices: Usages and internals](http://blog.golang.org/go-slices-usage-and-internals)
+- [Exported/Unexported Identifiers in Go](https://www.goinggo.net/2014/03/exportedunexported-identifiers-in-go.html?spref=tw)
+- [Working with Files in Go](http://devdungeon.com/content/working-files-go)
+- [Dependency management and Go](http://jbeckwith.com/2015/05/29/dependency-management-go/#.Vku4XINkxsg.twitter)
+- [The other side of Go: Drawing pictures](https://speakerdeck.com/ajstarks/the-other-side-of-go-programming-pictures)
 
 ### Miscellaneous
 
